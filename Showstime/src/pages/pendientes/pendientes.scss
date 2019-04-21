@@ -5,7 +5,7 @@ page-pendientes {
   }
 
   .toolbar, .toolbar-ios, .toolbar-md {
-    text-align: center;
+    margin-top: 0.5em;
   }
 
   .toolbar-background, .toolbar-background-ios, .toolbar-background-md {
@@ -14,7 +14,7 @@ page-pendientes {
 
   .card, .card-ios, .card-md {
     border-radius: 1em;
-    margin-bottom: 7%;
+    margin-bottom: 8%;
   }
 
   .card-content, .card-content-ios, .card-content-md{
@@ -28,7 +28,56 @@ page-pendientes {
     font-weight: bold;
   }
 
-  button {
-    margin-top: 3%;
+  .seriestitle {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-left: 0.8em;
+    margin-bottom: -0.3em;
   }
+
+  .cap-temp {
+    margin-top: -0.6em;
+    margin-bottom: 0.6em;
+    font-size: 1em;
+    font-weight: bold;
+    color: grey;
+  }
+
+  .grid {
+    padding: 0;
+    padding-top: 0.5em;
+
+    .row {
+      margin-bottom: 1em;
+      padding-bottom: 1em;
+      border-bottom: 0.1em solid rgba(154, 154, 154, 0.47);
+    }
+
+    img {
+      height: 12.5em;
+      width: 8.167em;
+      border-radius: 0.5em;
+    }
+    .booktitle {
+      font-weight: bold;
+      font-size: 1.2em;
+      padding-top: 15%;
+      display: block;
+    }
+    .bookautor {
+      font-weight: bold;
+      font-size: 0.9em;
+      color: grey;
+    }
+    .bookyear {
+      font-size: 0.9em;
+      color: grey;
+    }
+
+    .progress {
+      font-weight: bold;
+      margin-top: 1em;
+    }
+  }
+
 }
