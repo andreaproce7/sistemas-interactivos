@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-
+import { ModalController } from 'ionic-angular';
+import { PeliInfoPage } from '../peli-info/peli-info'
 /**
  * Generated class for the PendientesPage page.
  *
@@ -15,11 +16,16 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class PendientesPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(public navCtrl: NavController, public navParams: NavParams, public modalCtrl: ModalController) {
   }
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad PendientesPage');
   }
+
+  presentModal() {
+     const modal = this.modalCtrl.create(PeliInfoPage);
+     modal.present();
+   }
 
 }
