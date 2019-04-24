@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams, ViewController } from 'ionic-angular';
-
+import { Peli }       from '../../models/pelicula.model'
+import { PelisProvider } from '../../providers/pelis/pelis'
 /**
  * Generated class for the PeliInfoPage page.
  *

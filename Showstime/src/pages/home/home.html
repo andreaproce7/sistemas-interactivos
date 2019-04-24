@@ -1,17 +1,207 @@
 <ion-header>
-  <ion-navbar>
-    <ion-title>Inicio</ion-title>
-  </ion-navbar>
 </ion-header>
 
-<ion-content padding>
-  <h2>Welcome to Ionic!</h2>
-  <p>
-    This starter project comes with simple tabs-based layout for apps
-    that are going to primarily use a Tabbed UI.
-  </p>
-  <p>
-    Take a look at the <code>src/pages/</code> directory to add or change tabs,
-    update any existing page or create new pages.
-  </p>
+<ion-content [ngStyle]="{'background-color': backcolor}">
+  <img src={{backsplash}}/>
+  <ion-segment [(ngModel)]="contenido" class="segment-wrap">
+    <ion-segment-button value="pelis" (click)="cambiaPelis()">
+        Películas
+      </ion-segment-button>
+      <ion-segment-button value="series" (click)="cambiaSeries()">
+        Series
+      </ion-segment-button>
+      <ion-segment-button value="libros" (click)="cambiaLibros()">
+        Libros
+      </ion-segment-button>
+  </ion-segment>
+  <ion-searchbar margin-top></ion-searchbar>
+  <div [ngSwitch]="contenido" padding>
+
+    <div *ngSwitchCase="'pelis'">
+      <ion-grid padding-bottom margin-bottom>
+        <ion-row>
+          <div class="titulolista">De estreno este mes</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/qwLbQSeFy6ht8skBtao7lAZjsDo.jpg" (click)= 'presentModal()'/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/ARjmqyjkPmIh07GbuRTTDxw13v.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/1BIWytsnEr2aRobU6ERutzewm63.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+
+      <ion-grid padding-bottom margin-bottom class="lista">
+        <ion-row>
+          <div class="titulolista">Principios de saga</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/75CyGj7XjM3duSh0ykuX9v4GtMD.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/7xXJ15VEf7G9GdAuV1dO769yC73.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/nbiKaS4qgAyHqycGajhNZtD8DQH.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/sdBidO2INz2mIxD0KK7KnZnF8BQ.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+
+      <ion-grid padding-bottom margin-bottom class="lista">
+        <ion-row>
+          <div class="titulolista">Los mejores malos</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://image.tmdb.org/t/p/original/x8sW24vqG9XOIxVf8zp1llIFEjh.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/ozecjGWL47TQ9mKrPg2Y3WTh2UJ.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/eMMxvPtwEPJT0viYPSJG0KQICis.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/8FdQQ3cUCs9goEOr1qUFaHackoJ.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/dh016EIL9nio2gm3FiE9ZVfYtBG.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+
+      <ion-grid padding-bottom margin-bottom class="lista">
+        <ion-row>
+          <div class="titulolista">Comedias geniales</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/9YjLqXSCwdINgguNuOzKxKMGOVA.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/hafNeozn8Q4K6enP2ux5MTMCHjH.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/EJFkJD9BH400jfzKz3W5xLYHQa.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/j8ZRAOctUiw7YzrQGuyCRIAJPIW.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/qkyB1HaOSc9mo651QryMn7OAdUZ.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+    </div>
+
+    <div *ngSwitchCase="'series'">
+      <ion-grid padding-bottom margin-bottom>
+        <ion-row>
+          <div class="titulolista">Nuevo capítulo hoy</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://image.tmdb.org/t/p/original/8SN7dCZkh4wFbCtRLWJUDhu9Nrn.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/gskv297rlbyzLaTU1XZf8UBbxp0.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/poQgqeiKzA50etdQoJxELMA6M4s.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/t17TmixmWhJeIC4ytLfis6frLYf.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/htqOS6RXXdUtIgJVsg3ddy6RJNH.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+
+      <ion-grid padding-bottom margin-bottom class="lista">
+        <ion-row>
+          <div class="titulolista">Series completas y geniales</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://image.tmdb.org/t/p/original/q7J7A0sjDyyrZgRdXMMrFs9HqPc.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/x406taKMDHCu6TqhOGEj9iVvC7L.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg"/>
+                <img src="https://image.tmdb.org/t/p/original/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+
+      <ion-grid padding-bottom margin-bottom class="lista">
+        <ion-row>
+          <div class="titulolista">Nuevo en Netflix</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://www.thetvdb.com/banners/posters/5caf1a222a00c.jpg"/>
+                <img src="https://www.thetvdb.com/banners/posters/5cbbce5a6f761.jpg"/>
+                <img src="https://www.thetvdb.com/banners/posters/270423-1.jpg"/>
+                <img src="https://www.thetvdb.com/banners/posters/5b9c00aa33743.jpg"/>
+                <img src="https://www.thetvdb.com/banners/posters/5c2fbb87ce282.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+
+      <ion-grid padding-bottom margin-bottom class="lista">
+        <ion-row>
+          <div class="titulolista">Lo mejor, y en streaming</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/rYbp7PCBhgL583rLFlyuPo43Ff9.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/knmKpwrnCEWkt3aCL4fvqr403EY.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/j24NiYZHsuLEdyYqUunlVCapC04.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/qwrGbYxsZQEthB6vv96CCrTNs5T.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/rQoMSnm7Uv4yTDIumrVMbzL2DTt.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+      </div>
+
+    <div *ngSwitchCase="'libros'">
+      <ion-grid padding-bottom margin-bottom>
+        <ion-row>
+          <div class="titulolista">Grandes clásicos</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://imagessl9.casadellibro.com/a/l/t5/39/9788420471839.jpg"/>
+                <img src="http://static.serlogal.com/imagenes_big/9788466/978846623775.JPG"/>
+                <img src="https://www.libsa.es/wp-content/uploads/2017/07/9788466236645.gif"/>
+                <img src="https://imagenes.literaturasm.com/ecat_Imagenes/Original/183753_205428.jpg"/>
+                <img src="https://www.popularlibros.com/imagenes_grandes/9788497/978849740386.JPG"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+
+      <ion-grid padding-bottom margin-bottom class="lista">
+        <ion-row>
+          <div class="titulolista">Engánchate a una saga</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/91pjKEEV9GL.jpg"/>
+                <img src="https://imagessl8.casadellibro.com/a/l/t0/08/9788433973108.jpg"/>
+                <img src="https://imagessl5.casadellibro.com/a/l/t0/95/9788466341295.jpg"/>
+                <img src="https://images-na.ssl-images-amazon.com/images/I/51lEw8wGCPL._SX312_BO1,204,203,200_.jpg"/>
+                <img src="https://images-na.ssl-images-amazon.com/images/I/81o9LJuREAL.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+
+      <ion-grid padding-bottom margin-bottom class="lista">
+        <ion-row>
+          <div class="titulolista">Literatura española: Imprescindibles</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://images-na.ssl-images-amazon.com/images/I/91Cyv8O0c2L.jpg"/>
+                <img src="https://imagessl9.casadellibro.com/a/l/t0/99/9788416447299.jpg"/>
+                <img src="https://images-na.ssl-images-amazon.com/images/I/61t7dnticQL.jpg"/>
+                <img src="https://images-na.ssl-images-amazon.com/images/I/714K3O42KnL.jpg"/>
+                <img src="https://editorialverbum.es/wp-content/uploads/2018/09/la-celestina.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+
+      <ion-grid padding-bottom margin-bottom class="lista">
+        <ion-row>
+          <div class="titulolista">Los mejores cómics</div>
+        </ion-row>
+        <ion-row padding-top>
+            <div class="contenidolista">
+                <img src="https://i1.whakoom.com/large/3b/2b/06bee0f2d53b4603ab3874433a34fe39.jpg"/>
+                <img src="https://images-na.ssl-images-amazon.com/images/I/61nKQfKnTcL._SX328_BO1,204,203,200_.jpg"/>
+                <img src="https://www.ecccomics.com/content/noticias/11521/cubierta_batman_regreso_caballero_oscuro%20(1).jpg"/>
+                <img src="https://4.bp.blogspot.com/-jfL95Lq_ArI/VGm2-13KFzI/AAAAAAABCP8/mtPswqEp62Q/s1600/Sandman.jpg"/>
+                <img src="https://images-na.ssl-images-amazon.com/images/I/51KrkS6te5L._SX343_BO1,204,203,200_.jpg"/>
+            </div>
+        </ion-row>
+      </ion-grid>
+        </div>
+
+    </div>
 </ion-content>

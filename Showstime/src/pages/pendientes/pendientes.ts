@@ -17,6 +17,8 @@ import { PeliInfoPage } from '../peli-info/peli-info'
 export class PendientesPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public modalCtrl: ModalController) {
+    /*Para que el selector muestre inicialmente las películas*/
+    this.contenido="pelis";
   }
 
   ionViewDidLoad() {
