@@ -1,11 +1,11 @@
 export interface Peli {
     id: any;
     nombre: string;
-    puntuación: any;
+    puntuacion: any;
     trailerlink: string;
     director: string;
     genero: string;
-    estreno: date;
+    estreno: string;
     duracion: string;
     sinopsis: string;
     movistar: string;

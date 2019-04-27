@@ -1,9 +1,8 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import { Peli }       from '../../models/pelicula.model'
-import { PelisProvider } from '../../providers/pelis/pelis'
 import { ModalController } from 'ionic-angular';
-import { PeliInfoPage } from '../peli-info/peli-info'
+import { PeliInfoPage } from '../peli-info/peli-info';
+import { PelisProvider } from '../../providers/pelis/pelis';
 
 @Component({
   selector: 'page-home',
@@ -18,14 +17,12 @@ public  backgroundlibros: Array <string> = ["http://cdn.wallpapersafari.com/11/8
 public  backgroundcolor:  Array <string> = ["#1c0c4a", "#a5a9aa", "#1b1a1a", "#1b1a1a", "#001e3b", "#335350", "#214054", "#3c442d", "#664c6c"];
 public  backsplash:       string = this.backgroundpelis[0];
 public  backcolor:        string = this.backgroundcolor[0];
-public  peliculas:        Peli []=[];
+public  contenido:         string ="pelis";
 
   constructor(public navCtrl: NavController, public modalCtrl: ModalController, public pelisProvider: PelisProvider) {
-    this.contenido="pelis";
     var rand = Math.floor(Math.random()*3);
     this.backsplash = this.backgroundpelis[rand];
     this.backcolor = this.backgroundcolor[rand];
-    this.peliculas = this.pelisProvider.getPelis();
   }
 
   cambiaPelis() {
@@ -47,25 +44,7 @@ public  peliculas:        Peli []=[];
   }
 
   presentModal(id:number) {
-    var id = id;
-    var backcolor = this.peliculas[id].backcolor;
-    var backsplash = this.peliculas[id].backsplash;
-    var titulo = this.peliculas[id].nombre;
-    var puntuacion = this.peliculas[id].puntuacion;
-    var trailer = this.peliculas[id].trailerlink;
-    var director = this.peliculas[id].director;
-    var genero = this.peliculas[id].genero;
-    var estreno = this.peliculas[id].estreno;
-    var duracion = this.peliculas[id].duracion;
-    var sinopsis = this.peliculas[id].sinopsis;
-    var movistar = this.peliculas[id].movistar;
-    var hbo = this.peliculas[id].hbo;
-    var netflix = this.peliculas[id].netflix;
-    var primevideo = this.peliculas[id].primevideo;
-    var applestore = this.peliculas[id].applestore;
-    var microsoftstore = this.peliculas[id].microsoftstore;
-    var googleplay = this.peliculas[id].googleplay;
-    var poster = this.peliculas[id].poster;
+    this.pelisProvider.setId(id);
     const modal = this.modalCtrl.create(PeliInfoPage);
     modal.present();
    }

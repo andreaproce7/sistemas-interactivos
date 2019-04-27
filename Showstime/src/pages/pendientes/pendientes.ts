@@ -1,7 +1,9 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { ModalController } from 'ionic-angular';
-import { PeliInfoPage } from '../peli-info/peli-info'
+import { PeliInfoPage } from '../peli-info/peli-info';
+import { PelisProvider } from '../../providers/pelis/pelis'
+
 /**
  * Generated class for the PendientesPage page.
  *
@@ -16,16 +18,18 @@ import { PeliInfoPage } from '../peli-info/peli-info'
 })
 export class PendientesPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public modalCtrl: ModalController) {
+  public contenido:         string ="pelis";
+
+  constructor(public navCtrl: NavController, public navParams: NavParams, public modalCtrl: ModalController, public pelisProvider: PelisProvider) {
     /*Para que el selector muestre inicialmente las películas*/
-    this.contenido="pelis";
   }
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad PendientesPage');
   }
 
-  presentModal() {
+  presentModal(id: number) {
+     this.pelisProvider.setId(id);
      const modal = this.modalCtrl.create(PeliInfoPage);
      modal.present();
    }

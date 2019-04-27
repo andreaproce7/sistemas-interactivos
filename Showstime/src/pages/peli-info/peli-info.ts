@@ -17,7 +17,12 @@ import { PelisProvider } from '../../providers/pelis/pelis'
 })
 export class PeliInfoPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public viewCtrl: ViewController) {
+  private peli: Peli[]=[];
+  private id: number;
+
+  constructor(public navCtrl: NavController, public navParams: NavParams, public viewCtrl: ViewController, public pelisProvider: PelisProvider) {
+    this.peli = this.pelisProvider.getPelis();
+    this.id = this.pelisProvider.getId();
   }
 
   ionViewDidLoad() {
