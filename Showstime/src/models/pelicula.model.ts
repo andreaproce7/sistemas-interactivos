@@ -2,7 +2,7 @@ export interface Peli {
     id: any;
     nombre: string;
     puntuacion: any;
-    trailerlink: string;
+    trailer: string;
     director: string;
     genero: string;
     estreno: string;
@@ -12,11 +12,11 @@ export interface Peli {
     hbo: string;
     netflix: string;
     primevideo: string;
-    applestore: string;
-    microsoftstore: string;
+    apple: string;
+    microsoft: string;
     googleplay: string;
     poster:string;
     backsplash:string;
     captura:string;
-    backcolor:string;
+    color:string;
 }

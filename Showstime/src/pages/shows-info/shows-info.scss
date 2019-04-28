@@ -1,11 +1,51 @@
-page-peli-info {
+page-shows-info {
 
+  ion-segment {
+    display: block;
+    white-space: nowrap;
+    font-size: 0;
+    overflow: auto;
 
-  .backsplash {
-    height: 20em;
-    overflow: hidden;
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
-  }
+    &::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+        display: none;
+    }
+}
+
+.segment-wrap {
+  text-align: center;
+  padding-left: 3em;
+  padding-right: 3em;
+  margin: 6px 0px 6px 12px;
+}
+
+.segment-ios .segment-button {
+    display: inline-block;
+    min-width: 100px;
+    width: auto;
+    color: white;
+    border-width: 0;
+    border-color: white;
+    border-radius: 12px;
+    height: 2.2em;
+    line-height: 2.2em;
+}
+
+.segment-ios .segment-button.segment-activated {
+  background-color: #5988F7;
+  opacity: 0.8;
+}
+
+.segment-ios .segment-button:first-of-type{
+  border-radius: 12px;
+}
+
+.segment-ios .segment-button:last-of-type {
+  border-radius: 12px;
+  margin-right: 25px;
+}
+
   .atras {
     position: absolute;
     top: 2em;
@@ -13,9 +53,14 @@ page-peli-info {
     color: white;
   }
 
-  .content-wrapper {
-    height: 100%;
-    width: 100%;
+  .segment-wrap {
+    text-align: center;
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+
+  .content {
+    background-color: rgba(212, 170, 32, 1);
     .row{
       button {
       width: 100%;
@@ -28,24 +73,24 @@ page-peli-info {
   }
 
   img {
-      object-fit: contain;
+      mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
     }
 
   .pelititle {
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.6em;
     margin-left: 0.8em;
-    position: absolute;
+    //position: absolute;
     margin-top: -2em;
     color: white;
   }
 
   .puntuacion {
     font-weight: bold;
-    font-size: 1.1em;
-    margin-left: 1.2em;
+    font-size: 1em;
+    margin-left: 1em;
     color: white;
-    margin-top: -1em;
+    margin-top: 1em;
   }
 
   .section {
@@ -81,8 +126,8 @@ page-peli-info {
 
     img {
       mask-image: none;
-      height: 13em;
-      width: 8.49em;
+      height: 9em;
+      width: 9em;
       border-radius: 0.5em;
     }
 
@@ -117,6 +162,10 @@ page-peli-info {
       color: grey;
       margin-bottom: 0.3em;
     }
+  }
+
+  .options .button-ios {
+    font-size: 0.9em;
   }
 
 

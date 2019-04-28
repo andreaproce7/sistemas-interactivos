@@ -10,7 +10,7 @@ export class PelisProvider {
     id: 0,
     nombre: 'Vengadores: Endgame',
     puntuacion: "9.3",
-    trailerlink: "https://www.youtube.com/embed/UQ3bqYKnyhM",
+    trailer: "https://www.youtube.com/embed/UQ3bqYKnyhM",
     director: "Joe Russo y Anthony Russo",
     genero: "Acción y aventura",
     estreno: "26 de abril de 2019",
@@ -20,18 +20,18 @@ export class PelisProvider {
     hbo: "",
     netflix: "",
     primevideo: "",
-    applestore: "",
-    microsoftstore: "",
+    apple: "",
+    microsoft: "",
     googleplay: "",
     poster: "https://image.tmdb.org/t/p/w440_and_h660_face/qwLbQSeFy6ht8skBtao7lAZjsDo.jpg",
     backsplash: "https://image.tmdb.org/t/p/original/orjiB3oUIsyz60hoEqkiGpy5CeO.jpg",
     captura: "https://image.tmdb.org/t/p/original/orjiB3oUIsyz60hoEqkiGpy5CeO.jpg",
-    backcolor: "#1c0c4a"},
+    color: "#1c0c4a"},
     {
       id: 1,
       nombre: 'Vengadores: Infinity War',
       puntuacion: "8.2",
-      trailerlink: "https://www.youtube.com/embed/-f5PwE_Q8Fs",
+      trailer: "https://www.youtube.com/embed/-f5PwE_Q8Fs",
       director: "Joe Russo y Anthony Russo",
       genero: "Acción y aventura",
       estreno: "27 de abril de 2018",
@@ -41,16 +41,16 @@ export class PelisProvider {
       hbo: "1",
       netflix: "",
       primevideo: "",
-      applestore: "",
-      microsoftstore: "",
-      googleplay: "",
+      apple: "1",
+      microsoft: "1",
+      googleplay: "1",
       poster: "https://image.tmdb.org/t/p/original/q6Q81fP4qPvfQTH2Anlgy12jzO2.jpg",
       backsplash: "https://image.tmdb.org/t/p/original/xmgAsda5sPNpx5ghJibJ80S7Pfx.jpg",
       captura: "https://image.tmdb.org/t/p/original/fjzjVPGJoHDIiK6cFvebcmhxDA7.jpg",
-      backcolor: "purple"}
+      color: "purple"}
   ];
 
-  private current: number = 0;
+  private current: any;
 
   constructor(public http: HttpClient) {}
 

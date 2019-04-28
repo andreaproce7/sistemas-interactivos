@@ -24,11 +24,9 @@
         </ion-row>
         <ion-row padding-top>
             <div class="contenidolista">
-                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/qwLbQSeFy6ht8skBtao7lAZjsDo.jpg" (click)= 'presentModal(0)'/>
-                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/ARjmqyjkPmIh07GbuRTTDxw13v.jpg"/>
-                <img src="https://image.tmdb.org/t/p/original/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg"/>
-                <img src="https://image.tmdb.org/t/p/original/1BIWytsnEr2aRobU6ERutzewm63.jpg"/>
-                <img src="https://image.tmdb.org/t/p/original/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg"/>
+              <ng-container *ngFor="let item of items | async">
+                <img src={{item.poster}} (click)="presentModal(item.id);"/>
+              </ng-container>
             </div>
         </ion-row>
       </ion-grid>
@@ -133,7 +131,7 @@
             <div class="contenidolista">
                 <img src="https://image.tmdb.org/t/p/w440_and_h660_face/rYbp7PCBhgL583rLFlyuPo43Ff9.jpg"/>
                 <img src="https://image.tmdb.org/t/p/w440_and_h660_face/knmKpwrnCEWkt3aCL4fvqr403EY.jpg"/>
-                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/j24NiYZHsuLEdyYqUunlVCapC04.jpg"/>
+                <img src="https://image.tmdb.org/t/p/w440_and_h660_face/j24NiYZHsuLEdyYqUunlVCapC04.jpg" (click)= 'goToShow(0)'/>
                 <img src="https://image.tmdb.org/t/p/w440_and_h660_face/qwrGbYxsZQEthB6vv96CCrTNs5T.jpg"/>
                 <img src="https://image.tmdb.org/t/p/w440_and_h660_face/rQoMSnm7Uv4yTDIumrVMbzL2DTt.jpg"/>
             </div>
@@ -149,7 +147,7 @@
         <ion-row padding-top>
             <div class="contenidolista">
                 <img src="https://imagessl9.casadellibro.com/a/l/t5/39/9788420471839.jpg"/>
-                <img src="http://static.serlogal.com/imagenes_big/9788466/978846623775.JPG"/>
+                <img src="http://static.serlogal.com/imagenes_big/9788466/978846623775.JPG" (click)= 'goToBook(0)'/>
                 <img src="https://www.libsa.es/wp-content/uploads/2017/07/9788466236645.gif"/>
                 <img src="https://imagenes.literaturasm.com/ecat_Imagenes/Original/183753_205428.jpg"/>
                 <img src="https://www.popularlibros.com/imagenes_grandes/9788497/978849740386.JPG"/>

@@ -1,11 +1,6 @@
-page-peli-info {
+page-books-info {
 
 
-  .backsplash {
-    height: 20em;
-    overflow: hidden;
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
-  }
   .atras {
     position: absolute;
     top: 2em;
@@ -13,9 +8,8 @@ page-peli-info {
     color: white;
   }
 
-  .content-wrapper {
-    height: 100%;
-    width: 100%;
+  .content {
+    background-color: rgba(212, 170, 32, 1);
     .row{
       button {
       width: 100%;
@@ -28,7 +22,7 @@ page-peli-info {
   }
 
   img {
-      object-fit: contain;
+      mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
     }
 
   .pelititle {
