@@ -1,0 +1,1954 @@
+{
+  "01" : {
+    "id" : "01",
+    "nombre" : "Juego de tronos",
+    "color" : "#0F0E0F",
+    "género" : "Fantasía",
+    "poster": "https://www.thetvdb.com/banners/seasons/121361-1-6.jpg",
+    "temporadas" : {
+      "0101": {
+        "id": "0101",
+        "fondo": "https://brofeed.com/wp-content/uploads/2018/01/16632632814_e3c1d0631f_b.jpg",
+        "puntuacion": "8.7",
+        "trailer": "https://www.youtube.com/embed/BpJYNVhGf1s",
+        "sinopsis": "La serie, que se desarrolla principalmente en Poniente, comienza cuando el rey Robert Baratheon ofrece a Ned Stark convertirse en la Mano del Rey. Su mujer, Catelyn Stark, recibe una carta donde le explican que la anterior Mano del Rey fue asesinada por sus rivales, la Casa Lannister. Ned Stark debe averiguar quién le mató y asegurar la protección de su familia. Además, hay una trama en otro continente llamado Essos con la familia Targaryen. Esta casa, actualmente exhiliada, ostentó el poder hasta que le usurparon el Trono de Hierro.",
+        "episodios": {
+          "010101":{
+            "title": "Se acerca el invierno",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/3254641.jpg",
+            "release":"17 Abril 2011"
+          },
+          "010102":{
+            "title": "El Camino Real",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/3436411.jpg",
+            "release":"24 Abril 2011"
+          },
+          "010103":{
+            "title": "Lord Nieve",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/3436421.jpg",
+            "release":"1 Mayo 2011"
+          },
+          "010104":{
+            "title": "Tullidos, bastardos y cosas rotas",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/3436431.jpg",
+            "release":"8 Mayo 2011"
+          },
+          "010105":{
+            "title": "El lobo y el león",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/3436441.jpg",
+            "release":"15 Mayo 2011"
+          },
+          "010106":{
+            "title": "Una corona de oro",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/3436451.jpg",
+            "release":"22 Mayo 2011"
+          },
+          "010107":{
+            "title": "Ganas o mueres",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/3436461.jpg",
+            "release":"29 Mayo 2011"
+          },
+          "010108":{
+            "title": "Por el lado de la punta",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/3360391.jpg",
+            "release":"5 Junio 2011"
+          },
+          "010109":{
+            "title": "Baelor",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4063481.jpg",
+            "release":"12 Junio 2011"
+          },
+          "010110":{
+            "title": "Fuego y sangre",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4063491.jpg",
+            "release":"19 Junio 2011"
+          }
+        }
+      }
+    },
+      "0102": {
+        "id": "0102",
+        "fondo": "https://www.thetvdb.com/banners/seasons/121361-2-23.jpg",
+        "puntuacion": "8.9",
+        "trailer": "https://www.youtube.com/watch?v=XuKfFzk1uQs",
+        "sinopsis": "Esta temporada está basada en la novela Choque de reyes, segunda entrega de la saga Canción de hielo y fuego del escritor norteamericano George R. R. Martin. La historia toma lugar en un mundo ficticio, principalmente en el continente de Poniente, aunque también, en menor medida, en otro continente al este, conocido como Essos.",
+        "episodios": {
+          "010201":{
+            "title": "El Norte no olvida",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4161693.jpg",
+            "release":"1 Abril 2012"
+          },
+          "010202":{
+            "title": "Las tierras de la noche",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4245771.jpg",
+            "release":"8 Abril 2012"
+          },
+          "010203":{
+            "title": "Lo que está muerto no puede morir",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4245772.jpg",
+            "release":"15 Abril 2012"
+          },
+          "010204":{
+            "title": "Jardín de huesos",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4245773.jpg",
+            "release":"22 Abril 2012"
+          },
+          "010205":{
+            "title": "El fantasma de Harrenhal",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4245774.jpg",
+            "release":"29 Abril 2012"
+          },
+          "010206":{
+            "title": "Los dioses antiguos y nuevos",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4245775.jpg",
+            "release":"6 Mayo 2012"
+          },
+          "010207":{
+            "title": "Un hombre sin honor",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4245776.jpg",
+            "release":"13 Mayo 2012"
+          },
+          "010208":{
+            "title": "Un príncipe de Invernalia",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4245777.jpg",
+            "release":"20 Mayo 2012"
+           },
+          "010209":{
+            "title": "Aguasnegras",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4245778.jpg",
+            "release":"27 Mayo 2012"
+          },
+          "010210":{
+            "title": "Valar Morghulis",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4245779.jpg",
+            "release":"3 Junio 2012"
+          }
+        }
+      }
+    },
+      "0103": {
+        "id": "0103",
+        "fondo": "https://www.thetvdb.com/banners/seasons/121361-3-20.jpg",
+        "puntuacion": "9.0",
+        "trailer": "https://www.youtube.com/watch?v=wBtkdje5OfY",
+        "sinopsis": "Al igual que la novela, la temporada sigue con la guerra de los cinco reyes; después de la muerte de Renly Baratheon , los cuatro reyes de Westeros creen tener una reclamación al Trono de Hierro, además de Robb Stark, que busca venganza por la muerte de su padre Eddard Stark. En el lejano este, Daenerys Targaryen continua con su misión: volver a los Siete Reinos para reconquistarlos. Los críticos elogiaron los valores de la producción del espectáculo y del reparto. La audiencia aumentó nuevamente en comparación con la temporada anterior.",
+        "episodios": {
+          "010301":{
+            "title": "Valar Dohaeris",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4293685.jpg",
+            "release":"31 Marzo 2013"
+          },
+          "010302":{
+            "title": "Alas negras, palabras negras",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4517458.jpg",
+            "release":"7 Abril 2013"
+          },
+          "010303":{
+            "title": "El camino del castigo",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4517459.jpg",
+            "release":"14 Abril 2013"
+          },
+          "010304":{
+            "title": "Y ahora su guardia ha terminado",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4517460.jpg",
+            "release":"21 Abril 2013"
+          },
+          "010305":{
+            "title": "Besada por el fuego",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4517461.jpg",
+            "release":"28 Abril 2013"
+          },
+          "010306":{
+            "title": "El ascenso",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4517462.jpg",
+            "release":"5 Mayo 2013"
+          },
+          "010307":{
+            "title": "El oso y la doncella",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4517463.jpg",
+            "release":"12 Mayo 2013"
+          },
+          "010308":{
+            "title": "Los segundos hijos",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4517464.jpg",
+            "release":"19 Mayo 2013"
+           },
+          "010309":{
+            "title": "Las lluvias de Castamere",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4517465.jpg",
+            "release":"2 Junio 2013"
+          },
+          "010310":{
+            "title": "Mhysa",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4517466.jpg",
+            "release":"9 Junio 2013"
+          }
+        }
+      }
+    },
+      "0104": {
+        "id": "0104",
+        "fondo": "https://www.thetvdb.com/banners/seasons/121361-4-7.jpg",
+        "puntuacion": "9.1",
+        "trailer": "https://www.youtube.com/watch?v=xZY43QSx3Fk",
+        "sinopsis": "Al igual que la novela, la temporada como las temporadas anteriores se centra principalmente en la guerra de los cinco reyes, después de la muerte de Robb Stark en la boda roja, los tres reyes restantes de Poniente creen tener una demanda al trono de hierro. Mientras tanto, en el muro Jon Nieve y los de la guardia de la noche se preparan para la batalla contra los salvajes.",
+        "episodios": {
+          "010401":{
+            "title": "Dos espadas",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4721938.jpg",
+            "release":"6 Abril 2014"
+          },
+          "010402":{
+            "title": "El león y la rosa",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4801602.jpg",
+            "release":"13 Abril 2014"
+          },
+          "010403":{
+            "title": "Rompedora de cadenas",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4801603.jpg",
+            "release":"20 Abril 2014"
+          },
+          "010404":{
+            "title": "Guardajuramentos",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4801604.jpg",
+            "release":"27 Abril 2014"
+          },
+          "010405":{
+            "title": "El primero de su nombre",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4801605.jpg",
+            "release":"4 Mayo 2014"
+          },
+          "010406":{
+            "title": "Leyes de dioses y hombres",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4801606.jpg",
+            "release":"11 Mayo 2014"
+          },
+          "010407":{
+            "title": "Sinsonte",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4801607.jpg",
+            "release":"18 Mayo 2014"
+          },
+          "010408":{
+            "title": "La montaña y la víbora",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4801608.jpg",
+            "release":"1 Junio 2014"
+           },
+          "010409":{
+            "title": "Los vigilantes del muro",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4801609.jpg",
+            "release":"8 Junio 2014"
+          },
+          "010410":{
+            "title": "Los niños",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/4801610.jpg",
+            "release":"15 Junio 2014"
+          }
+        }
+      }
+    },
+      "0105": {
+        "id": "0105",
+        "fondo": "https://www.thetvdb.com/banners/seasons/121361-5-6.jpg",
+        "puntuacion": "8.6",
+        "trailer": "https://www.youtube.com/watch?v=A0pLbTXPHng",
+        "sinopsis": "Esta temporada revalidó el récord obteniendo de nuevo doce galardones de los Premios Emmy, incluyendo mejor serie dramática, mejor dirección y mejor guion. Dos de las estatuillas fueron a parar a manos de Peter Dinklage como mejor actor de reparto en una serie dramática por su interpretación de Tyrion en la primera y quinta temporada.",
+        "episodios": {
+          "010501":{
+            "title": "Las guerras venideras",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5083694.jpg",
+            "release":"12 Abril 2015"
+          },
+          "010502":{
+            "title": "La casa de negro y blanco",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5150174.jpg",
+            "release":"19 Abril 2015"
+          },
+          "010503":{
+            "title": "Gorrión Supremo",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5150175.jpg",
+            "release":"26 Abril 2015"
+          },
+          "010504":{
+            "title": "Hijos de la arpía",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5150183.jpg",
+            "release":"3 Mayo 2015"
+          },
+          "010505":{
+            "title": "Matad al chico",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5171022.jpg",
+            "release":"10 Mayo 2015"
+          },
+          "010506":{
+            "title": "Nunca doblegado, nunca roto",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5171023.jpg",
+            "release":"17 Mayo 2015"
+          },
+          "010507":{
+            "title": "El regalo",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5171024.jpg",
+            "release":"24 Mayo 2015"
+          },
+          "010508":{
+            "title": "Casa Austera",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5194184.jpg",
+            "release":"31 Mayo 2015"
+           },
+          "010509":{
+            "title": "Danza de dragones",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5194187.jpg",
+            "release":"7 Junio 2015"
+          },
+          "010510":{
+            "title": "Misericordia",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5194188.jpg",
+            "release":"14 Junio 2015"
+          }
+        }
+      }
+
+    },
+      "0106":{
+        "id": "0106",
+        "fondo": "https://www.thetvdb.com/banners/seasons/121361-6-2.jpg",
+        "puntuacion": "8.6",
+        "trailer": "https://www.youtube.com/watch?v=yu8eRaq1FUM",
+        "sinopsis": "Gran parte de contenido es original no encontrado en la novela Canción de hielo y fuego de George R. R. Martin. Algunos elementos de la historia se derivaron de las novelas y de la información que Martin reveló a los productores.1​ La serie fue adaptada para la televisión por David Benioff y D. B. Weiss. Cada episodio costó más de $ 10 millones.",
+        "episodios": {
+          "010601":{
+            "title": "La mujer roja",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5469015.jpg",
+            "release":"24 Abril 2016"
+          },
+          "010602":{
+            "title": "A casa",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5579002.jpg",
+            "release":"1 Mayo 2016"
+          },
+          "010603":{
+            "title": "Perjurio",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5579003.jpg",
+            "release":"8 Mayo 2016"
+          },
+          "010604":{
+            "title": "Libro del Desconocido",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5599364.jpg",
+            "release":"15 Mayo 2016"
+          },
+          "010605":{
+            "title": "El portón",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5600132.jpg",
+            "release":"22 Mayo 2016"
+          },
+          "010606":{
+            "title": "Sangre de mi sangre",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5615733.jpg",
+            "release":"29 Mayo 2016"
+          },
+          "010607":{
+            "title": "El hombre destrozado",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5615734.jpg",
+            "release":"5 Junio 2016"
+          },
+          "010608":{
+            "title": "Nadie",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5624259.jpg",
+            "release":"12 Junio 2016"
+           },
+          "010609":{
+            "title": "La batalla de los bastardos",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5624260.jpg",
+            "release":"19 Junio 2016"
+          },
+          "010610":{
+            "title": "Vientos de invierno",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/5624261.jpg",
+            "release":"26 Junio 2016"
+          }
+        }
+      }
+
+    },
+      "0107": {
+        "id": "0107",
+        "fondo": "https://www.thetvdb.com/banners/seasons/121361-7-7.jpg",
+        "puntuacion": "8.7",
+        "trailer": "https://www.youtube.com/watch?v=giYeaKsXnsI",
+        "sinopsis": "La séptima temporada se centra principalmente en la convergencia de los principales argumentos de la serie, con eventos importantes como Daenerys Targaryen llegando a Westeros con su ejército y tres dragones y librando una guerra contra los Lannister, Jon Snow forjando una alianza con Daenerys en un intento de unir su fuerzas contra el ejército del Caminante Blanco, Arya y Bran regresando a Winterfell y reuniéndose con su hermana Sansa, y el ejército de los muertos rompiendo el Muro (con la ayuda de un dragón) y entrando en los Siete Reinos.",
+        "episodios": {
+          "010701":{
+            "title": "Rocadragón",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/6185708.jpg",
+            "release":"16 Julio 2017"
+          },
+          "010702":{
+            "title": "Bajo la tormenta",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/6132445.jpg",
+            "release":"23 Julio 2017"
+          },
+          "010703":{
+            "title": "La justicia de la reina",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/6132453.jpg",
+            "release":"30 Julio 2017"
+          },
+          "010704":{
+            "title": "Botines de guerra",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/6235145.jpg",
+            "release":"6 Agosto 2017"
+          },
+          "010705":{
+            "title": "Guardaoriente",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/6132455.jpg",
+            "release":"13 Agosto 2017"
+          },
+          "010706":{
+            "title": "Más allá del Muro",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/6132456.jpg",
+            "release":"20 Agosto 2017"
+          },
+          "010707":{
+            "title": "El dragón y el lobo",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/6275142.jpg",
+            "release":"27 Agosto 2017"
+          }
+        }
+      }
+    },
+      "0108": {
+         "id": "0108",
+        "fondo": "https://www.thetvdb.com/banners/seasons/5cb33320d6e9c.jpg",
+        "puntuacion": "8.6",
+        "trailer": "https://www.youtube.com/watch?v=rlR4PJn8b8I",
+        "sinopsis": "Al igual que la temporada anterior, constará en gran medida de contenido original que no se encuentra actualmente en la Canción de hielo y fuego de George R. R. Martin, y también se adaptará material que Martin ha revelado a productores sobre las próximas novelas de la serie, Vientos de invierno y Sueño de primavera. La temporada fue adaptada para televisión por David Benioff y D.B. Weiss.",
+        "episodios": {
+          "010801":{
+            "title": "Invernalia",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/7117386.jpg",
+            "release":"14 Abril 2019"
+          },
+          "010802":{
+            "title": "El caballero de los Siete Reinos",
+            "captura":"https://www.thetvdb.com/banners/episodes/121361/7121401.jpg",
+            "release":"21 Abril 2019"
+          }
+        }
+      }
+    },
+  },
+    "02" : {
+      "id" : "02",
+      "nombre" : "Titanes",
+      "color" : "#0F0E0F",
+      "género" : "Acción",
+      "poster":"https://www.thetvdb.com/banners/seasons/5c9d726a6259f.jpg",
+      "temporadas" : {
+        "0201": {
+          "id": "0201",
+          "fondo": "https://www.thetvdb.com/banners/fanart/original/5c9d6f6434a42.jpg",
+          "puntuacion": "8.7",
+          "trailer": "https://www.youtube.com/embed/BpJYNVhGf1s",
+          "sinopsis": "La serie, que se desarrolla principalmente en Poniente, comienza cuando el rey Robert Baratheon ofrece a Ned Stark convertirse en la Mano del Rey. Su mujer, Catelyn Stark, recibe una carta donde le explican que la anterior Mano del Rey fue asesinada por sus rivales, la Casa Lannister. Ned Stark debe averiguar quién le mató y asegurar la protección de su familia. Además, hay una trama en otro continente llamado Essos con la familia Targaryen. Esta casa, actualmente exhiliada, ostentó el poder hasta que le usurparon el Trono de Hierro.",
+          "episodios": {
+            "020101":{
+              "title": "Titanes",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6601824.jpg",
+              "release":"12 Octubre 2018"
+            },
+            "020102":{
+              "title": "Halcón y paloma",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6601825.jpg",
+              "release":"19 Octubre 2018"
+
+            },
+            "020103":{
+              "title": "Orígenes",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6601826.jpg",
+              "release":"26 Octubre 2018"
+
+            },
+            "020104":{
+              "title": "Patrulla condenada",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6601827.jpg",
+              "release":"2 Noviembre 2018"
+
+            },
+            "020105":{
+              "title": "Juntos",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6601828.jpg",
+              "release":"9 Noviembre 2018"
+
+            },
+            "020106":{
+              "title": "Jason Todd",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6601829.jpg",
+              "release":"16 Noviembre 2018"
+
+            },
+            "020107":{
+              "title": "El manicomio",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6898663.jpg",
+              "release":"23 Noviembre 2018"
+
+            },
+            "020108":{
+              "title": "Donna Troy",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6898664.jpg",
+              "release":"30 Noviembre 2018"
+            },
+            "020109":{
+              "title": "Hank y Dawn",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6898665.jpg",
+              "release":"7 Diciembre 2018"
+            },
+            "020110":{
+              "title": "Koriand'r",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6898666.jpg",
+              "release":"14 Diciembre 2018"
+            },
+            "020111":{
+              "title": "Dick Grayson",
+              "captura":"https://www.thetvdb.com/banners/episodes/341663/6898667.jpg",
+              "release":"21 Diciembre 2018"
+            }
+          }
+        }
+      }
+    },
+      "03" : {
+        "id" : "03",
+        "nombre" : "Empire",
+        "color" : "#0F0E0F",
+        "género" : "Drama",
+        "poster":"https://image.tmdb.org/t/p/original/8SN7dCZkh4wFbCtRLWJUDhu9Nrn.jpg",
+        "temporadas" : {
+          "0301": {
+            "id": "0301",
+            "fondo": "https://fanart.tv/api/download.php?type=download&image=48098&section=1",
+            "puntuacion": "8.0",
+            "trailer": "https://www.youtube.com/watch?v=lmi5QbkhQ1Q",
+            "sinopsis": "La serie está basada en El rey Lear de William Shakespeare y en la obra de teatro El león en invierno de James Goldman. La trama se centra en la compañía de música hip hop, Empire Entertainment y en el drama de la familia de los fundadores de la compañía por quedarse con la misma.",
+            "episodios": {
+            "030101":{
+              "title": "Piloto",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTQ0MTY0NzU5M15BMl5BanBnXkFtZTgwODAzNzA5MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"7 Enero 2015"
+            },
+            "030102":{
+              "title": "El rey abierto",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTcwNDI1OTQwN15BMl5BanBnXkFtZTgwNzIwNDQwNDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"14 Enero 2015"
+            },
+            "030103":{
+              "title": "El diablo cita las escrituras",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTY1NzgxNzI5OV5BMl5BanBnXkFtZTgwNDYzNzA5MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"21 Enero 2015"
+            },
+            "030104":{
+              "title": "Falsa imposición",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTY1ODU3NDk3NV5BMl5BanBnXkFtZTgwMDEwMTQyNDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"28 Enero 2015"
+            },
+            "030105":{
+              "title": "Enlaces peligrosos",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTU0OTQyNjk1MF5BMl5BanBnXkFtZTgwMzA0NDUzNDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"4 Febrero 2015"
+            },
+            "030106":{
+              "title": "Fuera, maldito lugar",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTQzOTM5NjQ1N15BMl5BanBnXkFtZTgwMTc4NTM0NDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"11 Febrero 2015"
+            },
+            "030107":{
+              "title": "Nuestros dias de baile",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTQ1NDQ2MTI0Nl5BMl5BanBnXkFtZTgwNzA5OTI1NDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"18 Febrero 2015"
+            },
+            "030108":{
+              "title": "El rugido de Lyon",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTk2MTE2NDE0Nl5BMl5BanBnXkFtZTgwOTU0Mzk0NDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"25 Febrero 2015"
+            },
+            "030109":{
+              "title": "A la brecha",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTkwMzczMTU4MV5BMl5BanBnXkFtZTgwOTcyMDA3NDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"4 Marzo 2015"
+            },
+            "030110":{
+              "title": "Pecados del padre",
+              "captura":"https://m.media-amazon.com/images/M/MV5BODcwYmJhYjEtNjliMy00MWFiLWI0MGItOTFhNjM1NjNhMTAxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"11 Marzo 2015"
+            },
+            "030111":{
+              "title": "Muere una vez",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNTEyNTM0NzIyN15BMl5BanBnXkFtZTgwODUzOTA5NDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"18 Marzo 2015"
+            },
+            "030112":{
+              "title": "Quién soy",
+              "captura":"https://m.media-amazon.com/images/M/MV5BN2Q0YmM3MDEtZTkwZi00ZDJlLWI1MzctMzQ1OTZjMGI3ZDg3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"18 Marzo 2015"
+            }
+          }
+        }
+      },
+        "0302": {
+            "id": "0302",
+            "fondo": "http://www.prettyhustlaz.com/wp-content/uploads/2015/05/empire.jpg",
+            "puntuacion": "6.2",
+            "trailer": "https://www.youtube.com/watch?v=8NMl9nXoW60",
+            "sinopsis": "La serie está basada en El rey Lear de William Shakespeare y en la obra de teatro El león en invierno de James Goldman. La trama se centra en la compañía de música hip hop, Empire Entertainment y en el drama de la familia de los fundadores de la compañía por quedarse con la misma.",
+            "episodios": {
+            "030201":{
+              "title": "Juego",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNDI3NTM3Njk2OV5BMl5BanBnXkFtZTgwOTA4MTA3ODE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"23 Septiembre 2015"
+            },
+            "030202":{
+              "title": "Los demonios estan aqui",
+              "captura":"https://m.media-amazon.com/images/M/MV5BOTk2MTMwNDM0N15BMl5BanBnXkFtZTgwNTg3ODA5NjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"30 Septiembre 2015"
+            },
+            "030203":{
+              "title": "Sin un pais",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMjQyMTE0MjAyMl5BMl5BanBnXkFtZTgwNDQ1MjY5NjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"7 Octubre 2015"
+            },
+            "030204":{
+              "title": "Fuegos del cielo",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMzE3Mjg4MjQ1Nl5BMl5BanBnXkFtZTgwOTgyNDM5NjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"14 Octubre 2015"
+            },
+            "030205":{
+              "title": "Pobre Yorick",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMjQxNTgxNjg1M15BMl5BanBnXkFtZTgwMTY0NjUwNzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"21 Octubre 2015"
+            },
+            "030206":{
+              "title": "Ser cierto",
+              "captura":"https://m.media-amazon.com/images/M/MV5BZjU2NDZmMDAtNzVlYS00ZGYxLTg3OTAtNzEyOWUyNDY3ZGY2L2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"4 Noviembre 2015"
+            },
+            "030207":{
+              "title": "Una gran esperanza para un cielo bajo",
+              "captura":"https://m.media-amazon.com/images/M/MV5BODIwNTkxMzM3Nl5BMl5BanBnXkFtZTgwNzI2MjMyNzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"11 Noviembre 2015"
+            },
+            "030208":{
+              "title": "Amor verdadero nunca",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMjExMzM3NTc1N15BMl5BanBnXkFtZTgwMjY3MjMyNzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"18 Noviembre 2015"
+            },
+            "030209":{
+              "title": "Mis partes malas",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTQ1MTE0NzkzN15BMl5BanBnXkFtZTgwOTM4MjMyNzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"25 Noviembre 2015"
+            },
+            "030210":{
+              "title": "Pecó contra",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTUzMzI0Mjc4Nl5BMl5BanBnXkFtZTgwODAwMjMzNzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"2 Diciembre 2015"
+            },
+            "030211":{
+              "title": "Y tu, bruto",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMjQyMzkxMzEyOF5BMl5BanBnXkFtZTgwODM5MTM0NzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"30 Marzo 2016"
+            },
+            "030212":{
+              "title": "La muerte tendrá su día",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTY5MjM1NzQxMl5BMl5BanBnXkFtZTgwMjI2NTc0ODE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"6 Abril 2016"
+            },
+            "030213":{
+              "title": "Una rosa por cualquier otro día",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNjI3MTA1MzkzMl5BMl5BanBnXkFtZTgwNDc3ODY1ODE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"13 Abril 2016"
+            },
+            "030214":{
+              "title": "La mansedumbre de un lobo",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNjc2OTYwODU4N15BMl5BanBnXkFtZTgwNDkzMTU1ODE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"20 Abril 2016"
+            },
+            "030215":{
+              "title": "El tiempo se desarrollará",
+              "captura":"https://m.media-amazon.com/images/M/MV5BODE2Mjc0NjA3Nl5BMl5BanBnXkFtZTgwNjM5MDA3ODE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"27 Abril 2016"
+            },
+            "030216":{
+              "title": "Más que parientes",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNjczNDQ0NTM4OV5BMl5BanBnXkFtZTgwMTM5NTY3ODE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"4 Mayo 2016"
+            },
+            "030217":{
+              "title": "El lyon que lloraba lobo",
+              "captura":"https://m.media-amazon.com/images/M/MV5BOTUxODk0NzAzNl5BMl5BanBnXkFtZTgwNDU0MTY2ODE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"11 Mayo 2016"
+            },
+            "030218":{
+              "title": "Elevarse por el pecado",
+              "captura":"https://m.media-amazon.com/images/M/MV5BODk0OTU0Mzk4MV5BMl5BanBnXkFtZTgwMTc5Njk4ODE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"18 Mayo 2016"
+            }
+          }
+        }
+      },
+        "0303": {
+            "id": "0303",
+            "fondo": "https://www.davinadiaries.com/wp-content/uploads/2016/01/Empire-Season-3.jpeg",
+            "puntuacion": "7.6",
+            "trailer": "https://www.youtube.com/watch?v=iKcBAh4Ic34",
+            "sinopsis": "La serie está basada en El rey Lear de William Shakespeare y en la obra de teatro El león en invierno de James Goldman. La trama se centra en la compañía de música hip hop, Empire Entertainment y en el drama de la familia de los fundadores de la compañía por quedarse con la misma.",
+            "episodios": {
+            "030301":{
+              "title": "Luz en oscuridad",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTk3NDQ3NTU0M15BMl5BanBnXkFtZTgwMjQzMDgwMDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"21 Septiembre 2016"
+            },
+            "030302":{
+              "title": "Pecado que corrige",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTEyMDQ2NjAzNTdeQTJeQWpwZ15BbWU4MDgyODk4MTAy._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"28 Septiembre 2016"
+            },
+            "030303":{
+              "title": "Lo que queda es bestial",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTU5NTE5OTAxOV5BMl5BanBnXkFtZTgwNjg4MjMyMDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"5 Octubre 2016"
+            },
+            "030304":{
+              "title": "Cupido mata",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMTc0MTA0MjM4M15BMl5BanBnXkFtZTgwMTkzNDEzMDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"16 Octubre 2016"
+            },
+            "030305":{
+              "title": "Uno antes que otro",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNTQzNTMxNzUyOV5BMl5BanBnXkFtZTgwOTIzNTU1MDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"9 Noviembre 2016"
+            },
+            "030306":{
+              "title": "Carillones a la medianoche",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNjcyNzg2YzAtZWQ5Zi00YTZmLWE2NDMtYThhNDEzNGQzNTBhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"16 Noviembre 2016"
+            },
+            "030307":{
+              "title": "Lo que podemos ser",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMmI3MjlkNzQtYTk4ZC00NGQwLWFkOGMtYjc1YmIzZTIyYjA1L2ltYWdlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"30 Noviembre 2016"
+            },
+            "030308":{
+              "title": "El corte más cruel",
+              "captura":"https://m.media-amazon.com/images/M/MV5BZGEyNWI4ZTgtMTU0ZS00MGM2LWI1YjItNWNlYzIzOTIxMjg4L2ltYWdlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"7 Diciembre 2016"
+            },
+            "030309":{
+              "title": "Un horno para tu enemigo",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMWU5MjdjOWUtMjFiNC00YTFlLWEyY2UtMDgwMDU1NmQ1YWZmL2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"14 Diciembre 2016"
+            },
+            "030310":{
+              "title": "Sonido y furia",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMzFlNGU0YzItZDQzOC00Y2MwLWFlZTYtZDZkNjI4OGMwZmFlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"22 Marzo 2017"
+            },
+            "030311":{
+              "title": "Aprovecharse de",
+              "captura":"https://m.media-amazon.com/images/M/MV5BODc3YmExYTAtOGJiOS00YzVhLWFmMmUtZjliMTU5OTliNDMyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"29 Marzo 2017"
+            },
+            "030312":{
+              "title": "Extraños compañeros de cama",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMThlOTRkNGMtNDBhZS00MzRjLWJkNTMtYjQ4YWFlNDc2MmQ4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"5 Abril 2017"
+            },
+            "030313":{
+              "title": "Mi villano desnudo",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNmQ1MDk3NWItODRjMS00MDJiLTlmMmMtYTVhZjQ1Yzg4ZmFlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"12 Abril 2017"
+            },
+            "030314":{
+              "title": "El amor es un humo",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNzAwNDI1MDQtMzI3Yi00MjEyLWFlNTgtNmZhYzQwYmIzNzAzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"26 Abril 2017"
+            },
+            "030315":{
+              "title": "Manos civiles impuras",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNmZmNTlhZGMtZWUxZS00NzRjLWFiNWMtNTg0ZDQyMjBkMzI1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"3 Mayo 2017"
+            },
+            "030316":{
+              "title": "Niño ausente",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNTBjOTg3NzAtNjVhNi00YmEwLWI2MDgtZTgzMTliNGQ2MmFhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"10 Mayo 2017"
+            },
+            "030317":{
+              "title": "Trabajo duro y problemas, parte 1",
+              "captura":"https://m.media-amazon.com/images/M/MV5BZDI1MmYwYjAtNGIzZS00ZGE2LWE1MTAtNDhlMWUxZGMyYjEyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"17 Mayo 2017"
+            },
+            "030318":{
+              "title": "Trabajo duro y problemas, parte 2",
+              "captura":"https://m.media-amazon.com/images/M/MV5BZjBhOGE0M2MtZDUxYi00ZjNiLTlkNGMtOWVhOWVhNjQ4ZjMxXkEyXkFqcGdeQXVyNTg2MzM3NDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"24 Mayo 2017"
+            }
+          }
+        }
+      },
+        "0304": {
+            "id": "0304",
+            "fondo": "http://www.blackfilm.com/read/wp-content/uploads/2017/09/Empire-Season-4-poster-2.jpg",
+            "puntuacion": "7.6",
+            "trailer": "https://www.youtube.com/watch?v=b35OWlXNjlc",
+            "sinopsis": "La serie está basada en El rey Lear de William Shakespeare y en la obra de teatro El león en invierno de James Goldman. La trama se centra en la compañía de música hip hop, Empire Entertainment y en el drama de la familia de los fundadores de la compañía por quedarse con la misma.",
+            "episodios": {
+            "030401":{
+              "title": "Memoria noble",
+              "captura":"https://m.media-amazon.com/images/M/MV5BYmIwNWI5NWItNmUyOC00NTAwLWFhMDMtMWE1NTU1ODJhM2Y3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"21 Septiembre 2017"
+            },
+            "030402":{
+              "title": "Círculo completo",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNDM1ZDA1YzgtYzliZi00NDkwLWE1ZjUtZTJjYWRjNWM4MzIwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"28 Septiembre 2017"
+            },
+            "030403":{
+              "title": "Malos modales",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMzViYTc4MTItNGEwMS00NzI5LTk2MmUtZmNkN2Y2NmQyZTQxXkEyXkFqcGdeQXVyMjQzNjQ2ODg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"5 Octubre 2017"
+            },
+            "030404":{
+              "title": "Guerra sangrante",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMDU5NmNiM2YtMjY2Yi00NDkxLWE3YjYtNWNlOWIzNzViZTlhXkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"16 Octubre 2017"
+            },
+            "030405":{
+              "title": "El tonto",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNTdhNWZiZDctNDM0Yy00NWY4LWFiZWYtZTBlZWRhOTM2YTAxXkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_UY126_CR10,0,224,126_AL_.jpg",
+              "release":"9 Noviembre 2017"
+            },
+            "030406":{
+              "title": "La fortuna no sea escarcha",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNjcyNzg2YzAtZWQ5Zi00YTZmLWE2NDMtYThhNDEzNGQzNTBhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"16 Noviembre 2017"
+            },
+            "030407":{
+              "title": "La protesta de la señora Doth",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMmI3MjlkNzQtYTk4ZC00NGQwLWFkOGMtYjc1YmIzZTIyYjA1L2ltYWdlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"30 Noviembre 2017"
+            },
+            "030408":{
+              "title": "Cupido pintado a ciegas",
+              "captura":"https://m.media-amazon.com/images/M/MV5BZGEyNWI4ZTgtMTU0ZS00MGM2LWI1YjItNWNlYzIzOTIxMjg4L2ltYWdlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"7 Diciembre 2017"
+            },
+            "030409":{
+              "title": "Esclavo de la memoria",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMWU5MjdjOWUtMjFiNC00YTFlLWEyY2UtMDgwMDU1NmQ1YWZmL2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"14 Diciembre 2017"
+            },
+            "030410":{
+              "title": "Pájaros en la jaula",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMzFlNGU0YzItZDQzOC00Y2MwLWFlZTYtZDZkNjI4OGMwZmFlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"22 Marzo 2018"
+            },
+            "030411":{
+              "title": "Sin disculpa",
+              "captura":"https://m.media-amazon.com/images/M/MV5BODc3YmExYTAtOGJiOS00YzVhLWFmMmUtZjliMTU5OTliNDMyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"29 Marzo 2018"
+            },
+            "030412":{
+              "title": "Dulce dolor",
+              "captura":"https://m.media-amazon.com/images/M/MV5BMThlOTRkNGMtNDBhZS00MzRjLWJkNTMtYjQ4YWFlNDc2MmQ4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"5 Abril 2018"
+            },
+            "030413":{
+              "title": "De la fortaleza es madre",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNmQ1MDk3NWItODRjMS00MDJiLTlmMmMtYTVhZjQ1Yzg4ZmFlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"12 Abril 2018"
+            },
+            "030414":{
+              "title": "Cara falsa",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNzAwNDI1MDQtMzI3Yi00MjEyLWFlNTgtNmZhYzQwYmIzNzAzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"26 Abril 2018"
+            },
+            "030415":{
+              "title": "Vista hambrienta",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNmZmNTlhZGMtZWUxZS00NzRjLWFiNWMtNTg0ZDQyMjBkMzI1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"3 Mayo 2018"
+            },
+            "030416":{
+              "title": "Terminos justos",
+              "captura":"https://m.media-amazon.com/images/M/MV5BNTBjOTg3NzAtNjVhNi00YmEwLWI2MDgtZTgzMTliNGQ2MmFhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"10 Mayo 2018"
+            },
+            "030417":{
+              "title": "Narices sangrando",
+              "captura":"https://m.media-amazon.com/images/M/MV5BZDI1MmYwYjAtNGIzZS00ZGE2LWE1MTAtNDhlMWUxZGMyYjEyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"17 Mayo 2018"
+            },
+            "030418":{
+              "title": "El imperio",
+              "captura":"https://m.media-amazon.com/images/M/MV5BZjBhOGE0M2MtZDUxYi00ZjNiLTlkNGMtOWVhOWVhNjQ4ZjMxXkEyXkFqcGdeQXVyNTg2MzM3NDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+              "release":"24 Mayo 2018"
+            }
+          }
+        }
+      }
+    },
+      "04" : {
+        "id" : "04",
+        "nombre" : "Riverdale",
+        "color" : "#0F0E0F",
+        "género" : "Drama",
+        "poster":"https://image.tmdb.org/t/p/original/gskv297rlbyzLaTU1XZf8UBbxp0.jpg",
+        "temporadas" : {
+          "0401": {
+            "id": "0401",
+            "fondo": "https://ih0.redbubble.net/image.353685065.7731/flat,550x550,075,f.u1.jpg",
+            "puntuacion": "7.8",
+            "trailer": "https://www.youtube.com/watch?v=HxtLlByaYTc",
+            "sinopsis": "Mientras navegan por las turbulentas aguas del romance, la escuela y la familia, Archie y su banda se enredan en los oscuros misterios de Riverdale.",
+            "episodios": {
+            "040101":{
+              "title": "Al borde del río",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5619480.jpg",
+              "release":"7 Enero 2017"
+            },
+            "040102":{
+              "title": "Un toque de maldad",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5728933.jpg",
+              "release":"7 Enero 2017"
+            },
+            "040103":{
+              "title": "Doble de cuerpo",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5728934.jpg",
+              "release":"7 Enero 2017"
+            },
+            "040104":{
+              "title": "La última película",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5757553.jpg",
+              "release":"7 Enero 2017"
+            },
+            "040105":{
+              "title": "Corazón oscuro",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5954502.jpg",
+              "release":"7 Enero 2017"
+            },
+            "040106":{
+              "title": "Más rápido, Pussycats!",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5959806.jpg",
+              "release":"7 Enero 2017"
+            },
+            "040107":{
+              "title": "En un lugar solitario",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5964255.jpg",
+              "release":"7 Enero 2017"
+            },
+             "040108":{
+              "title": "Los marginados",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5964256.jpg",
+              "release":"7 Enero 2017"
+            },
+            "040109":{
+              "title": "La gran ilusión",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5964257.jpg",
+              "release":"7 Enero 2017"
+            },
+            "040110":{
+              "title": "El fin de semana perdido",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/5964254.jpg",
+              "release":"7 Enero 2017"
+            }
+          }
+        }
+      },
+        "0402": {
+          "id": "0402",
+          "fondo": "https://www.thetvdb.com/banners/seasons/311954-2.jpg",
+          "puntuacion": "8.3",
+          "trailer": "https://www.youtube.com/watch?v=zj4rUYZxbag",
+          "sinopsis": "Mientras navegan por las turbulentas aguas del romance, la escuela y la familia, Archie y su banda se enredan en los oscuros misterios de Riverdale.",
+          "episodios": {
+            "040201":{
+              "title": "Un beso antes de morir",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6096833.jpg",
+              "release":"1 Octubre 2017"
+            },
+            "040202":{
+              "title": "Halcones de la noche",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6123087.jpg",
+              "release":"8 Octubre 2017"
+            },
+            "040203":{
+              "title": "Los ojos del bosque",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6138239.jpg",
+              "release":"15 Octubre 2017"
+            },            
+            "040204":{
+              "title": "Terror al anochecer",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6163372.jpg",
+              "release":"1 Noviembre 2017"
+            },
+            "040205":{
+              "title": "Llama un extraño",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6190665.jpg",
+              "release":"8 Noviembre 2017"
+            },
+            "040206":{
+              "title": "Prueba de muerte",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6246546.jpg",
+              "release":"15 Noviembre 2017"
+            },            
+              "040207":{
+              "title": "Cuentos desde la oscuridad",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6246547.jpg",
+              "release":"15 Noviembre 2017"
+            },            
+            "040208":{
+              "title": "La casa del diablo",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6276277.jpg",
+              "release":"1 Diciembre 2017"
+            },
+            "040209":{
+              "title": "Noche de paz, noche de muerte",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6304026.jpg",
+              "release":"8 Diciembre 2017"
+            },
+            "040210":{
+              "title": "Semilla de maldad",
+              "captura":"https://www.thetvdb.com/banners/episodes/311954/6338340.jpg",
+              "release":"15 Enero 2018"
+            }
+          }
+        }
+      }
+    },
+      "05" : {
+        "id" : "05",
+        "nombre" : "Star",
+        "color" : "#0F0E0F",
+        "género" : "Drama",
+        "poster":"https://image.tmdb.org/t/p/w440_and_h660_face/poQgqeiKzA50etdQoJxELMA6M4s.jpg",
+        "temporadas" : {
+          "0501": {
+            "id": "0501",
+            "fondo": "https://www.thetvdb.com/banners/seasons/5c7b311c99482.jpg",
+            "puntuacion": "6.8",
+            "trailer": "https://www.youtube.com/watch?v=T2snL9QUIZI",
+            "sinopsis": "Un trío de mujeres forma un grupo musical en Atlanta.",
+            "episodios": {
+            "050101":{
+              "title": "Piloto",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5821177.jpg",
+              "release":"7 Diciembre 2016"
+            },
+            "050102":{
+              "title": "El diablo que conoces",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5821252.jpg",
+              "release":"7 Enero 2017"
+            },
+            "050103":{
+              "title": "Pariente mas cercano",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5885305.jpg",
+              "release":"14 Enero 2017"
+            },
+            "050104":{
+              "title": "Codigo de silencio",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5885309.jpg",
+              "release":"21 Enero 2017"
+            },
+            "050105":{
+              "title": "Voces nuevas",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5885311.jpg",
+              "release":"28 Enero 2017"
+            },
+            "050106":{
+              "title": "Famoso",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5885312.jpg",
+              "release":"7 Febrero 2017"
+            },
+            "050107":{
+              "title": "Negro donde vaya",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5885313.jpg",
+              "release":"14 Febrero 2017"
+            },
+             "050108":{
+              "title": "Hijo de mama",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5885314.jpg",
+              "release":"21 Febrero 2017"
+            },
+            "050109":{
+              "title": "Coartada",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5885315.jpg",
+              "release":"28 Febrero 2017"
+            },
+            "050110":{
+              "title": "Problema de niño",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5885316.jpg",
+              "release":"7 Marzo 2017"
+            },
+            "050111":{
+              "title": "Salvando la cara",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/5952847.jpg",
+              "release":"14 Marzo 2017"
+            }
+          }
+        }            
+      },  
+        "0502": {
+          "id": "0502",
+          "fondo": "https://www.thetvdb.com/banners/seasons/5c7b3102d1e6e.jpg",
+          "puntuacion": "6.8",
+          "trailer": "https://www.youtube.com/watch?v=oJema8pKtMA",
+          "sinopsis": "Un trío de mujeres forma un grupo musical en Atlanta.",
+          "episodios": {
+            "050201":{
+              "title": "Ganador se lleva todo",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6102061.jpg",
+              "release":"1 Marzo 2018"
+            },
+            "050202":{
+              "title": "Inseguro",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6231549.jpg",
+              "release":"8 Marzo 2018"
+            },
+            "050203":{
+              "title": "Buenas Noches!",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6247593.jpg",
+              "release":"15 Marzo 2018"
+            },            
+            "050204":{
+              "title": "No ha terminado",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6259445.jpg",
+              "release":"1 Abril 2018"
+            },
+            "050205":{
+              "title": "Que el mejor gane",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6358053.jpg",
+              "release":"8 Abril 2018"
+            },
+            "050206":{
+              "title": "Falsando",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6361215.jpg",
+              "release":"15 Abril 2018"
+            },            
+              "050207":{
+              "title": "Simfonia",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6381016.jpg",
+              "release":"15 Abril 2018"
+            },            
+            "050208":{
+              "title": "Casa dividida",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6412944.jpg",
+              "release":"1 Mayo 2018"
+            },
+            "050209":{
+              "title": "Climax",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6421283.jpg",
+              "release":"8 Mayo 2018"
+            },
+            "050210":{
+              "title": "Subiendo de las cenisas",
+              "captura":"https://www.thetvdb.com/banners/episodes/311810/6521509.jpg",
+              "release":"15 Mayo 2018"
+
+            }
+          }
+        }
+      }
+    },
+      "06" : {
+        "id" : "06",
+        "nombre" : "Happy!",
+        "color" : "#0F0E0F",
+        "género" : "Comedia",
+        "poster":"https://image.tmdb.org/t/p/w440_and_h660_face/t17TmixmWhJeIC4ytLfis6frLYf.jpg",
+        "temporadas" : {
+          "0601": {
+            "id": "0601",
+            "fondo": "https://www.thetvdb.com/banners/seasons/328361-1.jpg",
+            "puntuacion": "8.3",
+            "trailer": "https://www.youtube.com/watch?v=t7OYkSgmM-w",
+            "sinopsis": "Un sicario herido se hace amigo del amigo imaginario de su hija secuestrada, un alegre unicornio azul.",
+            "episodios": {
+            "060101":{
+              "title": "San Nick",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6279753.jpg",
+              "release":"1 Diciembre 2016"
+            },
+            "060102":{
+              "title": "Para lo que son las sonrisas",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6374933.jpg",
+              "release":"7 Diciembre 2017"
+            },
+            "060103":{
+              "title": "Cuando la Navidad era Navidad",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6411823.jpg",
+              "release":"14 Diciembre 2017"
+            },
+            "060104":{
+              "title": "El año del caballo",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6411824.jpg",
+              "release":"21 Diciembre 2017"
+            },
+            "060105":{
+              "title": "Salsa blanca? Salsa picante?",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6443354.jpg",
+              "release":"2 Enero 2018"
+            },
+            "060106":{
+              "title": "El desagüe de cosas infantiles",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6375666.jpg",
+              "release":"7 Enero 2018"
+            },
+            "060107":{
+              "title": "Destructor de mundos",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6447043.jpg",
+              "release":"14 Enero 2018"
+            },
+             "060108":{
+              "title": "Soy el futuro",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6447044.jpg",
+              "release":"21 Enero 2018"
+            }
+          }
+        }        
+      },
+        "0602": {
+          "id": "0602",
+          "fondo": "https://www.thetvdb.com/banners/seasons/5cb90234cfa3f.jpg",
+          "puntuacion": "8.6",
+          "trailer": "https://www.youtube.com/watch?v=ggzPWPzLxIc",
+          "sinopsis": "Un sicario herido se hace amigo del amigo imaginario de su hija secuestrada, un alegre unicornio azul.",
+          "episodios": {
+            "060201":{
+              "title": "Guerra en Pascua",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6716222.jpg",
+              "release":"1 Marzo 2019"
+            },
+            "060202":{
+              "title": "Tallahassee",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/7053832.jpg",
+              "release":"8 Marzo 2019"
+            },
+            "060203":{
+              "title": "Algunas chicas necesitan arrepentirse mucho",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/7053833.jpg",
+              "release":"15 Marzo 2019"
+            },            
+            "060204":{
+              "title": "Blitzkrieg!!!",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/7061627.jpg",
+              "release":"1 Abril 2019"
+            },
+            "060205":{
+              "title": "19 horas y 13 minutos",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/7061629.jpg",
+              "release":"8 Abril 2019"
+            },
+            "060206":{
+              "title": "Pervapalozza",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6447044.jpg",
+              "release":"15 Abril 2019"
+            },            
+              "060207":{
+              "title": "Arlo y Marie",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6447043.jpg",
+              "release":"15 Mayo 2019"
+            },            
+            "060208":{
+              "title": "Amigo de muerte",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6375666.jpg",
+              "release":"1 Mayo 2019"
+            },
+            "060209":{
+              "title": "Cinco dedos de pollo y una pistola",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6443354.jpg",
+              "release":"8 Mayo 2019"
+            },
+            "060210":{
+              "title": "Resureccion",
+              "captura":"https://www.thetvdb.com/banners/episodes/328361/6411824.jpg",
+              "release":"15 Mayo 2019"
+
+
+            }
+          }
+        }
+      }
+    },
+      "07" : {
+        "id" : "07",
+        "nombre" : "What we do in the shadows",
+        "color" : "#0F0E0F",
+        "género" : "Comedia",
+        "poster":"https://image.tmdb.org/t/p/w440_and_h660_face/htqOS6RXXdUtIgJVsg3ddy6RJNH.jpg",
+        "temporadas" : {
+          "0701": {
+            "id": "0701",
+            "fondo": "https://www.thetvdb.com/banners/seasons/5cb12b443634e.jpg",
+            "puntuacion": "8.2",
+            "trailer": "https://www.youtube.com/watch?v=mfBbSwX6kEk",
+            "sinopsis": "Una mirada a la vida diaria (o más bien, nocturna) de cuatro vampiros que han vivido juntos durante más de 100 años, en Staten Island.",
+            "episodios": {
+            "070101":{
+              "title": "Piloto",
+              "captura":"https://www.thetvdb.com/banners/episodes/358211/7023255.jpg",
+              "release":"1 Marzo 2019"
+            },
+            "070102":{
+              "title": "Ayuntamiento",
+              "captura":"https://www.thetvdb.com/banners/episodes/358211/7056485.jpg",
+              "release":"7 Marzo 2019"
+            },
+            "070103":{
+              "title": "Luncha contra un hombre lobo",
+              "captura":"https://www.thetvdb.com/banners/episodes/358211/7056486.jpg",
+              "release":"28 Marzo 2019"
+            },
+            "070104":{
+              "title": "Club nocturno de Manhattan",
+              "captura":"https://www.thetvdb.com/banners/episodes/358211/7056487.jpg",
+              "release":"7 Abril 2019"
+            },
+            "070105":{
+              "title": "Control de animales",
+              "captura":"https://www.thetvdb.com/banners/episodes/358211/7071724.jpg",
+              "release":"18 Abril 2019"
+            },
+            "070106":{
+              "title": "Noche de Baron",
+              "captura":"https://image.tmdb.org/t/p/w440_and_h660_face/htqOS6RXXdUtIgJVsg3ddy6RJNH.jpg",
+              "release":"24 Abril 2019"
+            },
+            "070107":{
+              "title": "El juicio",
+              "captura":"https://image.tmdb.org/t/p/w440_and_h660_face/htqOS6RXXdUtIgJVsg3ddy6RJNH.jpg",
+              "release":"1 Mayo 2019"
+            },
+             "070108":{
+              "title": "Ciudadania",
+              "captura":"https://image.tmdb.org/t/p/w440_and_h660_face/htqOS6RXXdUtIgJVsg3ddy6RJNH.jpg",
+              "release":"2 Mayo 2019"
+            },
+            "070109":{
+              "title": "Episodio 9",
+              "captura":"https://image.tmdb.org/t/p/w440_and_h660_face/htqOS6RXXdUtIgJVsg3ddy6RJNH.jpg",
+              "release":"8 Mayo 2019"
+            },
+            "070110":{
+              "title": "Episodio 10",
+              "captura":"https://image.tmdb.org/t/p/w440_and_h660_face/htqOS6RXXdUtIgJVsg3ddy6RJNH.jpg",
+              "release":"15 Mayo 2019"
+            }
+          }
+        }
+      }
+    },
+      "08" : {
+        "id" : "08",
+        "nombre" : "The legend of Zelda",
+        "color" : "#0F0E0F",
+        "género" : "Animacion",
+        "poster":"https://image.tmdb.org/t/p/original/q7J7A0sjDyyrZgRdXMMrFs9HqPc.jpg",
+        "temporadas" : {
+          "0801": {
+            "id": "0801",
+            "fondo": "https://www.thetvdb.com/banners/seasons/78276-1.jpg",
+            "puntuacion": "5.9",
+            "trailer": "https://www.youtube.com/watch?v=wrqGPaxs7g8",
+            "sinopsis": "Basado en el popular juego de Nintendo del mismo nombre. Link y la princesa Zelda protegen el artefacto místico, la Trifuerza de la Sabiduría, para que no caiga en manos del malvado hechicero Ganon.",
+            "episodios": {
+            "080101":{
+              "title": "El concurso de magos",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278649.jpg",
+              "release":"1 Septiembre 1989"
+            },
+            "080102":{
+              "title": "Día de limpieza",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278650.jpg",
+              "release":"7 Septiembre 1989"
+            },
+            "080103":{
+              "title": "El caballero blanco",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278651.jpg",
+              "release":"28 Septiembre 1989"
+            },
+            "080104":{
+              "title": "Presumiendo un beso",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278652.jpg",
+              "release":"31 Septiembre 1989"
+            },
+            "080105":{
+              "title": "Sing busca al unicornio",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278653.jpg",
+              "release":"18 Octubre 1989"
+            },
+            "080106":{
+              "title": "Ese mal presentimiento",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278654.jpg",
+              "release":"24 Octubre 1989"
+            },
+            "080107":{
+              "title": "El otro yo",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278655.jpg",
+              "release":"27 Octubre 1989"
+            },
+             "080108":{
+              "title": "Conexiones al mundo subterráneo",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278656.jpg",
+              "release":"30 Octubre 1989"
+            },
+            "080109":{
+              "title": "Estafando a un estafador",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278657.jpg",
+              "release":"8 Noviembre 1989"
+            },
+            "080110":{
+              "title": "Problemas en el trabajo",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278658.jpg",
+              "release":"15 Noviembre 1989"
+            },
+             "080111":{
+              "title": "Hadas en el manantial",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278659.jpg",
+              "release":"21 Noviembre 1989"
+            },
+            "080112":{
+              "title": "Link desaparecido",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278660.jpg",
+              "release":"28 Noviembre 1989"
+            },
+            "080113":{
+              "title": "Los Moblins se revelan",
+              "captura":"https://www.thetvdb.com/banners/episodes/78276/278661.jpg",
+              "release":"15 Diciembre 1989"
+            }
+          }
+        }
+      }
+    },
+      "09" : {
+        "id" : "09",
+        "nombre" : "The Office",
+        "color" : "#0F0E0F",
+        "género" : "Comedia",
+        "poster":"https://image.tmdb.org/t/p/w440_and_h660_face/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg",
+        "temporadas" : {
+          "0901": {
+            "id": "0901",
+            "fondo": "https://www.thetvdb.com/banners/seasons/73244-1-5.jpg",
+            "puntuacion": "8.8",
+            "trailer": "https://www.youtube.com/watch?v=jz1omRneAGg",
+            "sinopsis": "Un falso documental en un grupo de trabajadores de oficina típicos, donde la jornada laboral consiste en choques de ego, comportamiento inapropiado y tedio.",
+            "episodios": {
+            "090101":{
+              "title": "Piloto",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/110413.jpg",
+              "release":"24 Marzo 2005"
+            },
+            "090102":{
+              "title": "DEl día de la diversidad",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/110414.jpg",
+              "release":"29 Marzo 2005"
+            },
+            "090103":{
+              "title": "El seguro médico",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/110415.jpg",
+              "release":"5 Abril 2005"
+            },
+            "090104":{
+              "title": "El pacto",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/110416.jpg",
+              "release":"12 Abril 2005"
+            },
+            "090105":{
+              "title": "Baloncesto",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/110417.jpg",
+              "release":"19 Abril 2005"
+            },
+            "090106":{
+              "title": "La chica caliente",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/110418.jpg",
+              "release":"26 Abril 2005"
+            }
+          }
+        }        
+      },
+        "0902": {
+          "id": "0902",
+          "fondo": "https://www.thetvdb.com/banners/seasons/73244-2-5.jpg",
+          "puntuacion": "8.7",
+          "trailer": "https://www.youtube.com/watch?v=oCs3ihow7CU",
+          "sinopsis": "Un falso documental en un grupo de trabajadores de oficina típicos, donde la jornada laboral consiste en choques de ego, comportamiento inapropiado y tedio.",
+          "episodios": {
+            "090201":{
+              "title": "Los premios Dundies",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306092.jpg",
+              "release":"1 Septiembre 2005"
+            },
+            "090202":{
+              "title": "Acoso Sexual",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306093.jpg",
+              "release":"8 Septiembre 2005"
+            },
+            "090203":{
+              "title": "Olimpiadas en la oficina",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306094.jpg",
+              "release":"15 Septiembre 2005"
+            },            
+            "090204":{
+              "title": "Fuego",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306095.jpg",
+              "release":"5 Octubre 2005"
+            },
+            "090205":{
+              "title": "La Noche de Halloween",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306096.jpg",
+              "release":"15 Octubre 2005"
+            },
+            "090206":{
+              "title": "La pelea",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306097.jpg",
+              "release":"25 Octubre 2005"
+            },            
+            "090207":{
+              "title": "El cliente",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306098.jpg",
+              "release":"10 Noviembre 2005"
+            },            
+            "090208":{
+              "title": "El examen de Resultados",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306099.jpg",
+              "release":"24 Noviembre 2005"
+            },
+            "090209":{
+              "title": "Correo intervenido",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306100.jpg",
+              "release":"15 Diciembre 2005"
+            },
+            "090210":{
+              "title": "La Fiesta de Navidad",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306101.jpg",
+              "release":"3 Enero 2006"
+            },
+            "090211":{
+              "title": "Crucero con Barra Libre",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306102.jpg",
+              "release":"9 Enero 2006"
+            },            
+            "090212":{
+              "title": "El Accidente",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306103.jpg",
+              "release":"11 Enero 2006"
+            },            
+            "090213":{
+              "title": "El secreto",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306104.jpg",
+              "release":"17 Enero 2006"
+            },
+            "090214":{
+              "title": "La moqueta",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306105.jpg",
+              "release":"20 Enero 2006"
+            },
+            "090215":{
+              "title": "Chicos y chicas",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/306106.jpg",
+              "release":"15 Febrero 2006"
+            }
+          }
+        }        
+      },
+        "0903": {
+          "id": "0903",
+          "fondo": "https://www.thetvdb.com/banners/seasons/73244-3-5.jpg",
+          "puntuacion": "8.9",
+          "trailer": "https://www.youtube.com/watch?v=FVFNTRfUewg",
+          "sinopsis": "Un falso documental en un grupo de trabajadores de oficina típicos, donde la jornada laboral consiste en choques de ego, comportamiento inapropiado y tedio.",
+          "episodios": {
+            "090301":{
+              "title": "La caza de brujas gay",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/307725.jpg",
+              "release":"1 Septiembre 2006"
+            },
+            "090302":{
+              "title": "La convenció",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/307726.jpg",
+              "release":"8 Septiembre 2006"
+            },
+            "090303":{
+              "title": "El insurrecto",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/307727.jpg",
+              "release":"15 Septiembre 2006"
+            },            
+            "090304":{
+              "title": "El pésame",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/307729.jpg",
+              "release":"5 Octubre 2006"
+            },
+            "090305":{
+              "title": "La iniciación",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/309550.jpg",
+              "release":"15 Octubre 2006"
+            },
+            "090306":{
+              "title": "Fiesta de Diwali",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/309551.jpg",
+              "release":"25 Octubre 2006"
+            },            
+            "090307":{
+              "title": "El cierre de la sucursal",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/312503.jpg",
+              "release":"10 Noviembre 2006"
+            },            
+            "090308":{
+              "title": "La fusión",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/312504.jpg",
+              "release":"24 Noviembre 2006"
+            },
+            "090309":{
+              "title": "El preso",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/312505.jpg",
+              "release":"15 Diciembre 2006"
+            },
+            "090310":{
+              "title": "Navidad a la japonesa, primera parte",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/323326.jpg",
+              "release":"3 Enero 2006"
+            },
+            "090311":{
+              "title": "La vuelta de las vacaciones",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/316739.jpg",
+              "release":"9 Enero 2007"
+            },            
+            "090312":{
+              "title": "Carrera de vendedores",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/316740.jpg",
+              "release":"11 Enero 2007"
+            },            
+            "090313":{
+              "title": "El regreso",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/316741.jpg",
+              "release":"17 Enero 2007"
+            },
+            "090314":{
+              "title": "Benjamin Franklin",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/319008.jpg",
+              "release":"20 Enero 2007"
+            },
+            "090315":{
+              "title": "La boda de Phyllis",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/319009.jpg",
+              "release":"11 Febrero 2007"
+            },
+            "090316":{
+              "title": "Escuela de negocio",
+              "captura":"https://www.thetvdb.com/banners/episodes/73244/319357.jpg",
+              "release":"15 Febrero 2007"
+            }
+          }
+        }
+      }
+    },
+      "10" : {
+        "id" : "10",
+        "nombre" : "Firefly",
+        "color" : "#0F0E0F",
+        "género" : "Aventura",
+        "poster":"https://image.tmdb.org/t/p/original/x406taKMDHCu6TqhOGEj9iVvC7L.jpg",
+        "temporadas" : {
+          "1001": {
+            "id": "1001",
+            "fondo": "https://www.thetvdb.com/banners/seasons/78874-1-2.jpg",
+            "puntuacion": "9.0",
+            "trailer": "https://www.youtube.com/watch?v=60JcUpO_IR8",
+            "sinopsis": "Quinientos años en el futuro, un equipo renegado a bordo de una pequeña nave espacial intenta sobrevivir mientras viajan por las partes desconocidas de la galaxia y evaden las facciones en guerra así como los agentes de la autoridad para rescatarlos.",
+            "episodios": {
+            "100101":{
+              "title": "Asalto al tren",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297989.jpg",
+              "release":"1 Septiembre 2002"
+            },
+            "100102":{
+              "title": "El superviviente",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297990.jpg",
+              "release":"7 Septiembre 2002"
+            },
+            "100103":{
+              "title": "La señora Reynolds",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297991.jpg",
+              "release":"2 Octubre 2002"
+            },
+            "100104":{
+              "title": "El pueblo de Jayne",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297992.jpg",
+              "release":"7 Octubre 2002"
+            },
+            "100105":{
+              "title": "A la deriva",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297993.jpg",
+              "release":"18 Octubre 2002"
+            },
+            "100106":{
+              "title": "La fiesta",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297994.jpg",
+              "release":"10 Noviembre 2002"
+            },
+            "100107":{
+              "title": "Un lugar seguro",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297995.jpg",
+              "release":"15 Noviembre 2002"
+            },
+            "100108":{
+              "title": "Ciudad Ariel",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297996.jpg",
+              "release":"20 Noviembre 2002"
+            },
+            "100109":{
+              "title": "Historias de la guerra",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297997.jpg",
+              "release":"8 Diciembre 2002"
+            },
+            "100110":{
+              "title": "Objetos en el espacio",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297998.jpg",
+              "release":"15 Diciembre 2002"
+            },
+            "100111":{
+              "title": "Serenity",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/297999.jpg",
+              "release":"20 Diciembre 2002"
+            },
+            "100112":{
+              "title": "Las guerreras",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/298001.jpg",
+              "release":"2 Junio 2003"
+            },
+            "100113":{
+              "title": "Basura",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/298002.jpg",
+              "release":"8 Julio 2003"
+            },
+            "100114":{
+              "title": "El mensaje",
+              "captura":"https://www.thetvdb.com/banners/episodes/78874/298003.jpg",
+              "release":"25 Julio 2003"
+            }
+          }
+        }
+      }
+    },
+      "11" : {
+        "id" : "11",
+        "nombre" : "Freaks and Geeks",
+        "color" : "#0F0E0F",
+        "género" : "Comedia",
+        "poster":"https://image.tmdb.org/t/p/w440_and_h660_face/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg",
+        "temporadas" : {
+          "1101": {
+            "id": "1101",
+            "fondo": "https://www.thetvdb.com/banners/seasons/76321-1-2.jpg",
+            "puntuacion": "8.8",
+            "trailer": "https://www.youtube.com/watch?v=Zc_TB41SLk4",
+            "sinopsis": "Un estudiante de preparatoria comienza a salir con un grupo de burnouts mientras su hermano menor navega en su primer año.",
+            "episodios": {
+            "110101":{
+              "title": "Piloto",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190249.jpg",
+              "release":"1 Septiembre 1999"
+            },
+            "110102":{
+              "title": "Cervesas y vertederos",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190250.jpg",
+              "release":"7 Octubre 1999"
+            },
+            "110103":{
+              "title": "Trucos y golosinas",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190251.jpg",
+              "release":"20 Octubre 1999"
+            },
+            "110104":{
+              "title": "Kim Kelly es mi amiga",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190264.jpg",
+              "release":"7 Noviembre 1999"
+            },
+            "110105":{
+              "title": "Pruebas y senos",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190252.jpg",
+              "release":"18 Noviembre 1999"
+            },
+            "110106":{
+              "title": "Estoy con la banda",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190253.jpg",
+              "release":"20 Noviembre 1999"
+            },
+            "110107":{
+              "title": "Cardado y descartado",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190254.jpg",
+              "release":"2 Enero 2000"
+            },
+            "110108":{
+              "title": "Novias y novios",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190255.jpg",
+              "release":"5 Enero 2000"
+            },
+            "110109":{
+              "title": "Tenemos espiritu",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190256.jpg",
+              "release":"8 Enero 2000"
+            },
+            "110110":{
+              "title": "El diario",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190257.jpg",
+              "release":"15 Enero 2000"
+            },
+            "110111":{
+              "title": "Miradas y libros",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190258.jpg",
+              "release":"20 Febrero 2000"
+            },
+            "110112":{
+              "title": "La puerta del garaje",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190259.jpg",
+              "release":"2 Marzo 2000"
+            },
+            "110113":{
+              "title": "Asfixia y toking",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190260.jpg",
+              "release":"8 Marzo 2000"
+            },
+            "110114":{
+              "title": "Besarse y deambular",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190261.jpg",
+              "release":"15 Julio 2000"
+            },
+            "110115":{
+              "title": "Las cosas pequeñas",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190262.jpg",
+              "release":"20 Julio 2000"
+            },
+            "110116":{
+              "title": "Discos y dragones",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190263.jpg",
+              "release":"27 Julio 2000"
+            },
+            "110117":{
+              "title": "Perros muertos y profesores de gimnasio",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190265.jpg",
+              "release":"8 Octubre 2000"
+            },
+            "110118":{
+              "title": "Chisme y moshing",
+              "captura":"https://www.thetvdb.com/banners/episodes/76321/190266.jpg",
+              "release":"25 Octubre 2000"
+            }
+          }
+        }
+      }
+    },
+      "12" : {
+        "id" : "12",
+        "nombre" : "Sherlock",
+        "color" : "#0F0E0F",
+        "género" : "Crimen",
+        "poster":"https://image.tmdb.org/t/p/original/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg",
+        "temporadas" : {
+          "1201": {
+            "id": "1201",
+            "fondo": "https://www.thetvdb.com/banners/seasons/176941-1-9.jpg",
+            "puntuacion": "9.1",
+            "trailer": "https://www.youtube.com/watch?v=xK7S9mrFWL4",
+            "sinopsis": "Una actualización moderna encuentra que el famoso detective y su doctor, socio, están resolviendo el crimen en el siglo XXI en Londres.",
+            "episodios": {
+            "120101":{
+              "title": "Estudio en rosa",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/2502511.jpg",
+              "release":"25 Julio 2010"
+            },
+            "120102":{
+              "title": "El banquero ciego",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/2502521.jpg",
+              "release":"1 Agosto 2010"
+            },
+            "120103":{
+              "title": "El gran juego",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/2502531.jpg",
+              "release":"8 Agosto 2010"
+            }
+          }
+        }        
+      },
+        "1202": {
+          "id": "1202",
+          "fondo": "https://www.thetvdb.com/banners/seasons/176941-2-9.jpg",
+          "puntuacion": "8.2",
+          "trailer": "https://www.youtube.com/watch?v=bF71IxmOdeE",
+          "sinopsis": "Una actualización moderna encuentra que el famoso detective y su doctor, socio, están resolviendo el crimen en el siglo XXI en Londres.",
+          "episodios": {
+            "120201":{
+              "title": "Escandalo en Belgravia",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/4103396.jpg",
+              "release":"1 Enero 2012"
+            },
+            "120202":{
+              "title": "Los sabuesos de Baskerville",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/4103397.jpg",
+              "release":"8 Enero 2012"
+            },
+            "120203":{
+              "title": "La caida de Reichenbach",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/4103398.jpg",
+              "release":"15 Enero 2012"
+            }
+          }
+        }        
+      },
+        "1203": {
+          "id": "1203",
+          "fondo": "https://www.thetvdb.com/banners/seasons/176941-3-9.jpg",
+          "puntuacion": "8.7",
+          "trailer": "https://www.youtube.com/watch?v=9UcR9iKArd0",
+          "sinopsis": "Una actualización moderna encuentra que el famoso detective y su doctor, socio, están resolviendo el crimen en el siglo XXI en Londres.",
+          "episodios": {
+            "120301":{
+              "title": "La carroza fúnebre vacía",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/4520777.jpg",
+              "release":"1 Enero 2014"
+            },
+            "120302":{
+              "title": "El signo de los tres",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/4543555.jpg",
+              "release":"5 Enero 2014"
+            },
+            "120303":{
+              "title": "Su último juramento",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/4550992.jpg",
+              "release":"12 Enero 2014"
+            }
+          }
+        }        
+      },
+        "1204": {
+          "id": "1204",
+          "fondo": "https://www.thetvdb.com/banners/seasons/176941-4-3.jpg",
+          "puntuacion": "9.5",
+          "trailer": "https://www.youtube.com/watch?v=qlcWFoNqZHc",
+          "sinopsis": "Una actualización moderna encuentra que el famoso detective y su doctor, socio, están resolviendo el crimen en el siglo XXI en Londres.",
+          "episodios": {
+            "120401":{
+              "title": "Las seis Thatchers",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/5776502.jpg",
+              "release":"1 Enero 2017"
+            },
+            "120402":{
+              "title": "El detective mentiroso",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/5776503.jpg",
+              "release":"8 Enero 2017"
+            },
+            "120403":{
+              "title": "El problema final",
+              "captura":"https://www.thetvdb.com/banners/episodes/176941/5866007.jpg",
+              "release":"15 Enero 2017"
+            }
+          }
+        }
+      }
+
+  }
